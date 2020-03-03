@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NoteIT</string>
+
+    <string name="title_notes">Notlarım</string>
+    <string name="title_deleted_notes">Çöp Kutusu</string>
+    <string name="title_add_note">Not Ekle</string>
+    <string name="title_update_note">Not Güncelle</string>
+
+    <string name="label_note_header">Başlık</string>
+    <string name="label_note_content">İçerik</string>
+    <string name="label_note_priority">Önem Derecesi</string>
+    <string name="label_note_date">Tarih</string>
+
+    <string name="toast_message_saved">Not Kaydedildi</string>
+    <string name="toast_message_not_saved">Not Kaydedilmedi</string>
+    <string name="toast_message_note_recovered">Not Geri Yüklendi</string>
+    <string name="toast_message_deleted">Not Silindi</string>
+    <string name="toast_message_not_deleted">Not Silinmedi</string>
+    <string name="toast_message_warning">Lütfen Bir Başlık ve İçerik Girin</string>
+    <string name="toast_message_update_question">Güncelle?</string>
+    <string name="toast_message_yes">Evet</string>
+    <string name="toast_message_no">Hayır</string>
+    <string name="toast_message_delete_question">Notu Sil?</string>
+    <string name="toast_message_undo_question">Geri Al?</string>
+    <string name="toast_message_recover_question">Not Geri Yüklenecek?</string>
+    <string name="toast_message_recover_note_accept">Geri Yükle</string>
+    <string name="toast_message_recover_note_delete_definitely_question">Not Tamamen Silinecek</string>
+    <string name="toast_message_recover_note_delete_definitely">Tamamen Sil</string>
+    <string name="toast_message_recover_note_success">Geri Yüklendi</string>
+    <string name="toast_message_recover_note_delete_definitely_success">Not Tamamen Silindi</string>
+    <string name="toast_message_cancelled">İşlem İptal Edildi</string>
+    <string name="toast_message_continue_question">Devam Edilsin Mi?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toast_message_note_updated">Not Güncellendi</string>
+
+</resources>

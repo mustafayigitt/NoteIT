@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/title_notes"/>
+
+    <item
+        android:id="@+id/navigation_add_note"
+        android:icon="@drawable/ic_note_add"
+        android:title="@string/title_add_note"/>
+
+    <item
+        android:id="@+id/navigation_deleted_notes"
+        android:icon="@drawable/ic_deleted_notes"
+        android:title="@string/title_deleted_notes"/>
+
+</menu>
