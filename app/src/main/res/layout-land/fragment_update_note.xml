@@ -83,7 +83,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:checked="false"
-        android:hint="Hatırlat"
+        android:hint="Tarih Ekle"
         android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/lblNewNotePriority" />

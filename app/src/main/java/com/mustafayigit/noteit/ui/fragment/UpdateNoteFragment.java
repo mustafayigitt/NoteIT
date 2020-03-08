@@ -2,12 +2,6 @@ package com.mustafayigit.noteit.ui.fragment;
 
 import android.app.DatePickerDialog;
 import android.os.Bundle;
-
-import androidx.fragment.app.Fragment;
-import androidx.lifecycle.ViewModelProviders;
-import androidx.navigation.NavController;
-import androidx.navigation.Navigation;
-
 import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -19,6 +13,11 @@ import android.widget.EditText;
 import android.widget.RatingBar;
 import android.widget.Switch;
 import android.widget.Toast;
+
+import androidx.fragment.app.Fragment;
+import androidx.lifecycle.ViewModelProviders;
+import androidx.navigation.NavController;
+import androidx.navigation.Navigation;
 
 import com.mustafayigit.noteit.R;
 import com.mustafayigit.noteit.db.entity.Note;
@@ -114,6 +113,7 @@ public class UpdateNoteFragment extends Fragment {
 
         return root;
     }
+
 
     private String getDateByFormat(Date notFormattedDate) {
         String myFormat = "dd/MM/yy";
